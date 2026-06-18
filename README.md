@@ -41,7 +41,3 @@ I build cloud-native systems, backend services, and product-facing tooling that 
 - LinkedIn: https://www.linkedin.com/in/singh-ripudaman
 - GitHub: https://github.com/singhripudaman
 - Email: ripudamans@mun.ca
-
----
-
-If you want, I can also turn this into a more classic profile README with badges, pinned projects, and stats cards.
