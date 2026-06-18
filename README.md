@@ -1,49 +1,40 @@
-# Ripudaman Singh — Platform & Product Engineer
+# Hi there, I'm Ripudaman Singh 👋
 
-I build reliable, developer-friendly platform tooling and cloud-native systems that help teams ship faster. Experienced moving ideas from research and prototypes into production: backend services, infra-as-code, and realtime data pipelines.
+I build cloud-native systems, backend services, and product-facing tooling that help teams move faster without losing reliability. My work spans infrastructure, realtime telemetry pipelines, and research-to-production software.
 
----
+## About Me
 
-## What I do
+- Software engineer focused on shipping practical systems.
+- Recent experience building realtime coaching and evaluation pipelines at trophi.ai.
+- Comfortable moving between infrastructure, backend APIs, data processing, and applied AI.
 
-- Design and operate cloud-native infrastructure (SST, AWS). 
-- Build realtime telemetry and coaching pipelines that feed context to LLMs for automated evaluation and coaching (RAGFlow, Langfuse).
-- Improve developer velocity with CI/CD, Docker, and Kubernetes.
+## Current Focus
 
-## Highlights
+- Cloud-native infrastructure with SST and AWS
+- Realtime coaching workflows for LLM-powered products
+- CI/CD, containerization, and deployment automation
+- Observability pipelines that improve debugging speed
 
-- Built a real-time telemetry coaching system at trophi.ai to deliver contextual, LLM-powered coaching and automated evaluation.
-- Deployed production services and infra-as-code using SST and AWS, focused on reliability and fast iteration.
-- Converted research prototypes into stable tools for data collection, analysis, and visualization (eye-tracking / medical imaging).
+## Tech Stack
 
-## Skills
+- Infrastructure: SST, AWS, Docker, Kubernetes, GitHub Actions
+- Languages: TypeScript, Python, Go, C/C++, SQL
+- Backend & Web: React, Flask, FastAPI, Express, Drizzle
+- AI / Telemetry: RAGFlow, Langfuse, Grafana stack, Posthog, Sentry
 
-- Infrastructure — SST · AWS · Docker · Kubernetes · GitHub Actions
-	- Built infra-as-code with SST, containerized services, and automated CI/CD for production deployments.
+## Featured Projects
 
-- Realtime pipelines & LLM systems — RAGFlow · Langfuse
-	- Designed telemetry pipelines that feed contextual data to LLMs for realtime coaching and automated evaluation.
+- **MediSync AI** — Natural-language CRUD for healthcare. Built with React, Express, Flask, RAG, and OpenAI. Won Best Overall at DO.IT Hackathon.
+- **Realtime Coaching @ trophi.ai** — Built a telemetry coaching pipeline for contextual LLM evaluation and product feedback loops.
+- **Eye-Tracking for Medical Imaging** — Collected and visualized gaze data for medical image analysis using Python, OpenCV, and 3D Slicer.
+- **Bubblegum Bloodbath** — C++ game built with SFML; recognized as Best Overall in the batch.
 
-- Observability & Ops — Grafana (Alloy, Mimir, Loki, Tempo) · Posthog · Sentry
-	- Centralized metrics, logs, and traces to accelerate debugging and reduce time-to-resolution.
+## Experience
 
-- Languages & Systems — TypeScript · Python · Go · C/C++ · SQL
-	- Implemented backend services, data-processing pipelines, and performance-sensitive components.
-
-- Web & APIs — React · Flask · FastAPI · Express · Drizzle
-	- Built dashboards, APIs, and lightweight microservices to expose data and tooling to teams.
-
-## Selected Projects
-
-- **MediSync AI** — Natural-language CRUD for healthcare (DO.IT Hackathon — Best Overall). React, Express, Flask, RAG, OpenAI.
-- **Realtime Coaching @ trophi.ai** — Telemetry coaching pipeline, LLM evaluation, and deployment automation.
-- **Eye‑Tracking for Medical Imaging** — Data collection and visualization with Python, OpenCV, and 3D Slicer.
-- **Bubblegum Bloodbath** — C++ game (SFML); team project awarded Best Overall.
-
-## Experience (brief)
-
-- **trophi.ai** — Software Developer (Jan 2026 – Jun 2026): infra, realtime coaching pipelines, production services.
-- **Visual & Analytic Computing Lab, Memorial University** — Research Assistant / Software Developer (May 2023 – Dec 2024): research, XR visualizations, data analysis.
+- **trophi.ai** — Software Developer
+- **Visual & Analytic Computing Lab, Memorial University** — Research Assistant / Software Developer
+- **Data and Image Analysis Group, Memorial University** — Data Quality Assurance Analyst
+- **Memorial University** — Teaching Assistant, Computer Science
 
 ## Connect
 
@@ -53,4 +44,4 @@ I build reliable, developer-friendly platform tooling and cloud-native systems t
 
 ---
 
-If you'd like a different tone (shorter, more technical, or hiring-focused), tell me which direction and I'll adapt it.
+If you want, I can also turn this into a more classic profile README with badges, pinned projects, and stats cards.
